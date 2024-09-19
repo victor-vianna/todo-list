@@ -1,11 +1,13 @@
+import FullScreenWrapper from "@/components/layouts/FullScreenWrapper";
 import TodoList from "@/components/TodoList";
 import React, { useState } from "react";
 
 const Page = () => {
   return (
     <div>
-      <h1>TODO List</h1>
+      <FullScreenWrapper>
       <TodoList />
+      </FullScreenWrapper>
     </div>
   );
 };
