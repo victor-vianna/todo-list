@@ -2,18 +2,18 @@
 
 ## PASSO 1
 
-criar o schema através do zod
+Instalar a biblioteca Zod para a validação do schema de dados.
 
 -- npm i zod
 
-## PASSO 2
+## PASSO 2 - Criar o Schema:
 
-## PASSO 3
+## PASSO 3 - Estrutura do projeto:
 
-## PASSO 4
+## PASSO 4 - Configurar o componente TodoList:
 
-## PASSO 5
+## PASSO 5 - Implementar funcionalidade de filtros:
 
-## PASSO 6
+## PASSO 6 - Estilização com Tailwind CSS:
 
-## PASSO 7
+## PASSO 7 - Modo Claro e Escuro:
